@@ -1,4 +1,4 @@
-package com.github.vspiewak.flume.extensions.handler.handler;
+package com.github.vspiewak.flume.extensions.handler;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.flume.Context;
